@@ -1,0 +1,12 @@
+How To Used :
+1. Download katalogkacamata.zip, lalu ekstrak file zip tersebut
+2. Download folder img lalu paste di dalam folder katalogkacamata/web
+3. Silahkan buka project katalogkacamata di netbeans
+4. Setelah itu terdapat missing problem karena servernya belum di add
+5. Klik kanan di project lalu pilih Resolve Missing Server Problem
+6. kemudian Add Server Apache Tomcat 8.0.27.0
+7. Untuk menjalankan project nya 
+	-> klik kanan pada proses.java pada package servlet 
+	-> run file 
+	-> Set Servlet Execution URL : /proses/index
+	-> ok
